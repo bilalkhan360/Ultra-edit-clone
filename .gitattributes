@@ -1,1 +1,2 @@
 ue_english_64.zip filter=lfs diff=lfs merge=lfs -text
+ue_english_64.exe filter=lfs diff=lfs merge=lfs -text
